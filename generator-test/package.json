@@ -1,0 +1,17 @@
+{
+  "name": "generator-test",
+  "version": "1.0.0",
+  "description": "Basic Yeoman generator",
+  "author": "EMB",
+  "license": "MIT",
+  "files": [
+    "app",
+    "router"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^0.20.1"
+  }
+}
